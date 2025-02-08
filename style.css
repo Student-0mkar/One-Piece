@@ -3,17 +3,17 @@
 
 @font-face {
   font-family: look;
-  src: url(./Founders_Grotesk/FoundersGrotesk-Medium.otf);
+  src: url(./Founders_Grotesk/FoundersGrotesk-Medium.woff);
 }
 
 @font-face {
   font-family: italic;
-  src: url(./Founders_Grotesk/cardinalfruitweb-italic.ttf);
+  src: url(./Founders_Grotesk/cardinalfruitweb-italic.woff);
 }
 
 @font-face {
   font-family: look2;
-  src: url(./Founders_Grotesk/FoundersGroteskXCond-Bold.otf);
+  src: url(./Founders_Grotesk/FoundersGroteskXCond-Bold.woff);
 }
 
 * {
